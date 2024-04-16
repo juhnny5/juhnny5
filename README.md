@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Julien Briault, I'm a Network Engineer SRE at Deezer.
+My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.deezer.com) 💜 and Infrastructure Manager at [Les Restos du Coeur](https://www.restosducoeur.org/) 🩷.
 
 #### 👷 Check out what I'm currently working on
 
@@ -39,11 +39,3 @@ My name is Julien Briault, I'm a Network Engineer SRE at Deezer.
 - [perchnet/gomox](https://github.com/perchnet/gomox) - WIP CLI client for Proxmox VE (2 months ago)
 - [gtema/openstack](https://github.com/gtema/openstack) - OpenStack SDK and CLI for Rust (2 months ago)
 - [dtantsur/rust-openstack](https://github.com/dtantsur/rust-openstack) - OpenStack SDK for Rust (2 months ago)
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
-
-
