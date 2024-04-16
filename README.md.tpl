@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Julien Briault, I'm a Network Engineer SRE at Deezer.
+My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.deezer.com) 💜 and Infrastructure Manager at [Les Restos du Coeur](https://www.restosducoeur.org/) 🩷.
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
@@ -21,11 +21,3 @@ My name is Julien Briault, I'm a Network Engineer SRE at Deezer.
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
-
-<!-- comments will be preserved -->
