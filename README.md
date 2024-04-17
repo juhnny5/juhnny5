@@ -28,7 +28,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (today)
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (1 day ago)
 - [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate CLI is an open-source Infrastructure as Code (IaC) orchestration tool for Terraform, OpenTofu, Terragrunt, Kubernetes, Pulumi, Cloud Formation, CDK, Azure Resource Manager (ARM), and others. (3 weeks ago)
 - [jaxxstorm/pulumi-examples](https://github.com/jaxxstorm/pulumi-examples) -  (3 weeks ago)
 - [pulumi/pulumi-random](https://github.com/pulumi/pulumi-random) - A Pulumi provider that safely enables randomness for resources (3 weeks ago)
