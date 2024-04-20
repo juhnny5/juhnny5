@@ -5,7 +5,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 #### 👷 Check out what I'm currently working on
 
 - [infra-rdc/nbctl](https://github.com/infra-rdc/nbctl) - Client for NetBox written in Go. (1 month ago)
-- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (2 months ago)
+- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (3 months ago)
 - [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) - Ansible collection for Rudder (5 months ago)
 - [juhnny5/pulumi-netbox](https://github.com/juhnny5/pulumi-netbox) - A Pulumi package for creating and managing Netbox resources  (5 months ago)
 - [juhnny5/ping-monitor](https://github.com/juhnny5/ping-monitor) - Monitor your ips with alerts via ntfy.sh (8 months ago)
@@ -28,7 +28,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (3 days ago)
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (4 days ago)
 - [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate CLI is an open-source Infrastructure as Code (IaC) orchestration tool for Terraform, OpenTofu, Terragrunt, Kubernetes, Pulumi, Cloud Formation, CDK, Azure Resource Manager (ARM), and others. (4 weeks ago)
 - [jaxxstorm/pulumi-examples](https://github.com/jaxxstorm/pulumi-examples) -  (4 weeks ago)
 - [pulumi/pulumi-random](https://github.com/pulumi/pulumi-random) - A Pulumi provider that safely enables randomness for resources (4 weeks ago)
@@ -36,5 +36,5 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 - [qingwave/weave](https://github.com/qingwave/weave) - Golang&#43;Vue3 application starter,  Simple but functional. (2 months ago)
 - [david-guenault/proxcli](https://github.com/david-guenault/proxcli) - simple proxmox client  (2 months ago)
 - [perchnet/gomox](https://github.com/perchnet/gomox) - WIP CLI client for Proxmox VE (2 months ago)
-- [gtema/openstack](https://github.com/gtema/openstack) - OpenStack SDK and CLI for Rust (2 months ago)
-- [dtantsur/rust-openstack](https://github.com/dtantsur/rust-openstack) - OpenStack SDK for Rust (2 months ago)
+- [gtema/openstack](https://github.com/gtema/openstack) - OpenStack SDK and CLI for Rust (3 months ago)
+- [dtantsur/rust-openstack](https://github.com/dtantsur/rust-openstack) - OpenStack SDK for Rust (3 months ago)
