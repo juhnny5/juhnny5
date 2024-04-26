@@ -4,7 +4,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 👷 Check out what I'm currently working on
 
-- [infra-rdc/nbctl](https://github.com/infra-rdc/nbctl) - Client for NetBox written in Go. (1 month ago)
+- [infra-rdc/nbctl](https://github.com/infra-rdc/nbctl) - Client for NetBox written in Go. (2 months ago)
 - [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (3 months ago)
 - [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) - Ansible collection for Rudder (5 months ago)
 - [juhnny5/pulumi-netbox](https://github.com/juhnny5/pulumi-netbox) - A Pulumi package for creating and managing Netbox resources  (5 months ago)
