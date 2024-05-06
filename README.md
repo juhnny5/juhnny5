@@ -12,6 +12,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 🔭 Latest releases I've contributed to
 
+- [infra-rdc/nbctl](https://github.com/infra-rdc/nbctl) ([v0.0.1-beta](https://github.com/infra-rdc/nbctl/releases/tag/v0.0.1-beta), today) - Client for NetBox written in Go.
 
 #### 🔨 My recent Pull Requests
 
@@ -28,6 +29,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
+- [deezer/GroROTI](https://github.com/deezer/GroROTI) - G(r)oROTI is a selfhosted Return On Time Invested web application written in Go  (today)
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (2 weeks ago)
 - [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate CLI is an open-source Infrastructure as Code (IaC) orchestration tool for Terraform, OpenTofu, Terragrunt, Kubernetes, Pulumi, Cloud Formation, CDK, Azure Resource Manager (ARM), and others. (1 month ago)
 - [jaxxstorm/pulumi-examples](https://github.com/jaxxstorm/pulumi-examples) -  (1 month ago)
@@ -37,4 +39,3 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 - [david-guenault/proxcli](https://github.com/david-guenault/proxcli) - simple proxmox client  (3 months ago)
 - [perchnet/gomox](https://github.com/perchnet/gomox) - WIP CLI client for Proxmox VE (3 months ago)
 - [gtema/openstack](https://github.com/gtema/openstack) - OpenStack SDK and CLI for Rust (3 months ago)
-- [dtantsur/rust-openstack](https://github.com/dtantsur/rust-openstack) - OpenStack SDK for Rust (3 months ago)
