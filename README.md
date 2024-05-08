@@ -12,7 +12,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 🔭 Latest releases I've contributed to
 
-- [infra-rdc/nbctl](https://github.com/infra-rdc/nbctl) ([v0.0.1-beta](https://github.com/infra-rdc/nbctl/releases/tag/v0.0.1-beta), 1 day ago) - Client for NetBox written in Go.
+- [infra-rdc/nbctl](https://github.com/infra-rdc/nbctl) ([v0.0.1-beta](https://github.com/infra-rdc/nbctl/releases/tag/v0.0.1-beta), 2 days ago) - Client for NetBox written in Go.
 
 #### 🔨 My recent Pull Requests
 
@@ -29,7 +29,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [deezer/GroROTI](https://github.com/deezer/GroROTI) - G(r)oROTI is a selfhosted Return On Time Invested web application written in Go  (1 day ago)
+- [deezer/GroROTI](https://github.com/deezer/GroROTI) - G(r)oROTI is a selfhosted Return On Time Invested web application written in Go  (2 days ago)
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (3 weeks ago)
 - [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate CLI is an open-source Infrastructure as Code (IaC) orchestration tool for Terraform, OpenTofu, Terragrunt, Kubernetes, Pulumi, Cloud Formation, CDK, Azure Resource Manager (ARM), and others. (1 month ago)
 - [jaxxstorm/pulumi-examples](https://github.com/jaxxstorm/pulumi-examples) -  (1 month ago)
