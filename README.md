@@ -4,11 +4,11 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 👷 Check out what I'm currently working on
 
-- [infra-rdc/rudder-go](https://github.com/infra-rdc/rudder-go) - Golang SDK for Rudder (rudder.io) (3 days ago)
+- [infra-rdc/rudder-go](https://github.com/infra-rdc/rudder-go) - Golang SDK for Rudder (rudder.io) (4 days ago)
 - [infra-rdc/nbctl](https://github.com/infra-rdc/nbctl) - Client for NetBox written in Go. (3 months ago)
 - [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (4 months ago)
-- [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) - Ansible collection for Rudder (6 months ago)
-- [juhnny5/pulumi-netbox](https://github.com/juhnny5/pulumi-netbox) - A Pulumi package for creating and managing Netbox resources  (6 months ago)
+- [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) - Ansible collection for Rudder (7 months ago)
+- [juhnny5/pulumi-netbox](https://github.com/juhnny5/pulumi-netbox) - A Pulumi package for creating and managing Netbox resources  (7 months ago)
 - [juhnny5/ping-monitor](https://github.com/juhnny5/ping-monitor) - Monitor your ips with alerts via ntfy.sh (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -18,7 +18,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 #### 🔨 My recent Pull Requests
 
 - [Update Ubuntu version for OpenStack templates](https://github.com/pulumi/templates/pull/730) on [pulumi/templates](https://github.com/pulumi/templates) (4 months ago)
-- [Switch to Rudder v8.0 🚀](https://github.com/Normation/rudder-ansible/pull/67) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (6 months ago)
+- [Switch to Rudder v8.0 🚀](https://github.com/Normation/rudder-ansible/pull/67) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (7 months ago)
 - [Improve node and server settings modules (Python code)](https://github.com/Normation/rudder-ansible/pull/65) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (1 year ago)
 - [Change the version to the latest stable version (7.2)](https://github.com/Normation/rudder-ansible/pull/64) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (1 year ago)
 - [Store go module name in var in Makefile](https://github.com/crowdsecurity/crowdsec/pull/1989) on [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) (1 year ago)
