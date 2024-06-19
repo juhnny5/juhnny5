@@ -6,7 +6,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 - [infra-rdc/rudder-go](https://github.com/infra-rdc/rudder-go) - Golang SDK for Rudder (rudder.io) (3 weeks ago)
 - [infra-rdc/nbctl](https://github.com/infra-rdc/nbctl) - Client for NetBox written in Go. (3 months ago)
-- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (4 months ago)
+- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (5 months ago)
 - [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) - Ansible collection for Rudder (7 months ago)
 - [juhnny5/pulumi-netbox](https://github.com/juhnny5/pulumi-netbox) - A Pulumi package for creating and managing Netbox resources  (7 months ago)
 - [juhnny5/ping-monitor](https://github.com/juhnny5/ping-monitor) - Monitor your ips with alerts via ntfy.sh (10 months ago)
@@ -22,7 +22,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 - [Improve node and server settings modules (Python code)](https://github.com/Normation/rudder-ansible/pull/65) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (1 year ago)
 - [Change the version to the latest stable version (7.2)](https://github.com/Normation/rudder-ansible/pull/64) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (1 year ago)
 - [Store go module name in var in Makefile](https://github.com/crowdsecurity/crowdsec/pull/1989) on [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) (1 year ago)
-- [Improve loglevel load](https://github.com/akvorado/akvorado/pull/369) on [akvorado/akvorado](https://github.com/akvorado/akvorado) (1 year ago)
+- [Improve loglevel load](https://github.com/akvorado/akvorado/pull/369) on [akvorado/akvorado](https://github.com/akvorado/akvorado) (2 years ago)
 - [Add custom zone file name support](https://github.com/octodns/octodns/pull/961) on [octodns/octodns](https://github.com/octodns/octodns) (2 years ago)
 - [Fixes #20827: Adding the doc of the inventory plugin](https://github.com/Normation/rudder-ansible/pull/55) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (2 years ago)
 - [Fixes #20826: Add documentation part in TOC (in README file)](https://github.com/Normation/rudder-ansible/pull/54) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (2 years ago)
@@ -30,7 +30,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [zwindler/demystifions-kubernetes](https://github.com/zwindler/demystifions-kubernetes) -  (2 weeks ago)
+- [zwindler/demystifions-kubernetes](https://github.com/zwindler/demystifions-kubernetes) -  (3 weeks ago)
 - [darkweak/souin](https://github.com/darkweak/souin) - An HTTP cache system, RFC compliant, compatible with @tyktechnologies, @traefik, @caddyserver, @go-chi, @bnkamalesh, @beego, @devfeel, @labstack, @gofiber, @go-goyave, @go-kratos, @gin-gonic, @roadrunner-server, @zalando, @zeromicro, @nginx and @apache (3 weeks ago)
 - [deezer/GroROTI](https://github.com/deezer/GroROTI) - G(r)oROTI is a selfhosted Return On Time Invested web application written in Go  (1 month ago)
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (2 months ago)
