@@ -39,4 +39,4 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 - [pulumi/pulumi-random](https://github.com/pulumi/pulumi-random) - A Pulumi provider that safely enables randomness for resources (3 months ago)
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。 (3 months ago)
 - [qingwave/weave](https://github.com/qingwave/weave) - Golang&#43;Vue3 application starter,  Simple but functional. (4 months ago)
-- [david-guenault/proxcli](https://github.com/david-guenault/proxcli) - simple proxmox client  (4 months ago)
+- [david-guenault/proxcli](https://github.com/david-guenault/proxcli) - simple proxmox client  (5 months ago)
