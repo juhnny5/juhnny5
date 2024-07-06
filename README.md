@@ -21,7 +21,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 - [Switch to Rudder v8.0 🚀](https://github.com/Normation/rudder-ansible/pull/67) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (8 months ago)
 - [Improve node and server settings modules (Python code)](https://github.com/Normation/rudder-ansible/pull/65) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (1 year ago)
 - [Change the version to the latest stable version (7.2)](https://github.com/Normation/rudder-ansible/pull/64) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (1 year ago)
-- [Store go module name in var in Makefile](https://github.com/crowdsecurity/crowdsec/pull/1989) on [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) (1 year ago)
+- [Store go module name in var in Makefile](https://github.com/crowdsecurity/crowdsec/pull/1989) on [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) (2 years ago)
 - [Improve loglevel load](https://github.com/akvorado/akvorado/pull/369) on [akvorado/akvorado](https://github.com/akvorado/akvorado) (2 years ago)
 - [Add custom zone file name support](https://github.com/octodns/octodns/pull/961) on [octodns/octodns](https://github.com/octodns/octodns) (2 years ago)
 - [Fixes #20827: Adding the doc of the inventory plugin](https://github.com/Normation/rudder-ansible/pull/55) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (2 years ago)
