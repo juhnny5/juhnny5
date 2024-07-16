@@ -30,6 +30,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
+- [geerlingguy/ansible-role-kubernetes](https://github.com/geerlingguy/ansible-role-kubernetes) - Ansible Role - Kubernetes (today)
 - [zwindler/demystifions-kubernetes](https://github.com/zwindler/demystifions-kubernetes) -  (1 month ago)
 - [darkweak/souin](https://github.com/darkweak/souin) - An HTTP cache system, RFC compliant, compatible with @tyktechnologies, @traefik, @caddyserver, @go-chi, @bnkamalesh, @beego, @devfeel, @labstack, @gofiber, @go-goyave, @go-kratos, @gin-gonic, @roadrunner-server, @zalando, @zeromicro, @nginx and @apache (1 month ago)
 - [deezer/GroROTI](https://github.com/deezer/GroROTI) - G(r)oROTI is a selfhosted Return On Time Invested web application written in Go  (2 months ago)
@@ -39,4 +40,3 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 - [pulumi/pulumi-random](https://github.com/pulumi/pulumi-random) - A Pulumi provider that safely enables randomness for resources (3 months ago)
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。 (3 months ago)
 - [qingwave/weave](https://github.com/qingwave/weave) - Golang&#43;Vue3 application starter,  Simple but functional. (5 months ago)
-- [david-guenault/proxcli](https://github.com/david-guenault/proxcli) - simple proxmox client  (5 months ago)
