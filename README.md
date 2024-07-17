@@ -30,7 +30,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [geerlingguy/ansible-role-kubernetes](https://github.com/geerlingguy/ansible-role-kubernetes) - Ansible Role - Kubernetes (today)
+- [geerlingguy/ansible-role-kubernetes](https://github.com/geerlingguy/ansible-role-kubernetes) - Ansible Role - Kubernetes (1 day ago)
 - [zwindler/demystifions-kubernetes](https://github.com/zwindler/demystifions-kubernetes) -  (1 month ago)
 - [darkweak/souin](https://github.com/darkweak/souin) - An HTTP cache system, RFC compliant, compatible with @tyktechnologies, @traefik, @caddyserver, @go-chi, @bnkamalesh, @beego, @devfeel, @labstack, @gofiber, @go-goyave, @go-kratos, @gin-gonic, @roadrunner-server, @zalando, @zeromicro, @nginx and @apache (1 month ago)
 - [deezer/GroROTI](https://github.com/deezer/GroROTI) - G(r)oROTI is a selfhosted Return On Time Invested web application written in Go  (2 months ago)
