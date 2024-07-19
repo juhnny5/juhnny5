@@ -6,7 +6,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 - [infra-rdc/rudder-go](https://github.com/infra-rdc/rudder-go) - Golang SDK for Rudder (rudder.io) (1 month ago)
 - [infra-rdc/nbctl](https://github.com/infra-rdc/nbctl) - Client for NetBox written in Go. (4 months ago)
-- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (5 months ago)
+- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (6 months ago)
 - [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) - Ansible collection for Rudder (8 months ago)
 - [juhnny5/pulumi-netbox](https://github.com/juhnny5/pulumi-netbox) - A Pulumi package for creating and managing Netbox resources  (8 months ago)
 - [juhnny5/ping-monitor](https://github.com/juhnny5/ping-monitor) - Monitor your ips with alerts via ntfy.sh (11 months ago)
@@ -30,7 +30,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [geerlingguy/ansible-role-kubernetes](https://github.com/geerlingguy/ansible-role-kubernetes) - Ansible Role - Kubernetes (2 days ago)
+- [geerlingguy/ansible-role-kubernetes](https://github.com/geerlingguy/ansible-role-kubernetes) - Ansible Role - Kubernetes (3 days ago)
 - [zwindler/demystifions-kubernetes](https://github.com/zwindler/demystifions-kubernetes) -  (1 month ago)
 - [darkweak/souin](https://github.com/darkweak/souin) - An HTTP cache system, RFC compliant, compatible with @tyktechnologies, @traefik, @caddyserver, @go-chi, @bnkamalesh, @beego, @devfeel, @labstack, @gofiber, @go-goyave, @go-kratos, @gin-gonic, @roadrunner-server, @zalando, @zeromicro, @nginx and @apache (1 month ago)
 - [deezer/GroROTI](https://github.com/deezer/GroROTI) - G(r)oROTI is a selfhosted Return On Time Invested web application written in Go  (2 months ago)
