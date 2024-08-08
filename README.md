@@ -9,7 +9,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 - [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (6 months ago)
 - [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) - Ansible collection for Rudder (9 months ago)
 - [juhnny5/pulumi-netbox](https://github.com/juhnny5/pulumi-netbox) - A Pulumi package for creating and managing Netbox resources  (9 months ago)
-- [juhnny5/ping-monitor](https://github.com/juhnny5/ping-monitor) - Monitor your ips with alerts via ntfy.sh (11 months ago)
+- [juhnny5/ping-monitor](https://github.com/juhnny5/ping-monitor) - Monitor your ips with alerts via ntfy.sh (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
