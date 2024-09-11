@@ -16,9 +16,9 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 🔨 My recent Pull Requests
 
-- [Update Ubuntu version for OpenStack templates](https://github.com/pulumi/templates/pull/730) on [pulumi/templates](https://github.com/pulumi/templates) (7 months ago)
+- [Update Ubuntu version for OpenStack templates](https://github.com/pulumi/templates/pull/730) on [pulumi/templates](https://github.com/pulumi/templates) (8 months ago)
 - [Switch to Rudder v8.0 🚀](https://github.com/Normation/rudder-ansible/pull/67) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (10 months ago)
-- [Improve node and server settings modules (Python code)](https://github.com/Normation/rudder-ansible/pull/65) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (1 year ago)
+- [Improve node and server settings modules (Python code)](https://github.com/Normation/rudder-ansible/pull/65) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (2 years ago)
 - [Change the version to the latest stable version (7.2)](https://github.com/Normation/rudder-ansible/pull/64) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (2 years ago)
 - [Store go module name in var in Makefile](https://github.com/crowdsecurity/crowdsec/pull/1989) on [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) (2 years ago)
 - [Improve loglevel load](https://github.com/akvorado/akvorado/pull/369) on [akvorado/akvorado](https://github.com/akvorado/akvorado) (2 years ago)
