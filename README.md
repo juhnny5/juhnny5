@@ -16,7 +16,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 🔨 My recent Pull Requests
 
-- [Update Ubuntu version for OpenStack templates](https://github.com/pulumi/templates/pull/730) on [pulumi/templates](https://github.com/pulumi/templates) (8 months ago)
+- [Update Ubuntu version for OpenStack templates](https://github.com/pulumi/templates/pull/730) on [pulumi/templates](https://github.com/pulumi/templates) (9 months ago)
 - [Switch to Rudder v8.0 🚀](https://github.com/Normation/rudder-ansible/pull/67) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (11 months ago)
 - [Improve node and server settings modules (Python code)](https://github.com/Normation/rudder-ansible/pull/65) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (2 years ago)
 - [Change the version to the latest stable version (7.2)](https://github.com/Normation/rudder-ansible/pull/64) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (2 years ago)
@@ -29,7 +29,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [CleverCloud/beamium](https://github.com/CleverCloud/beamium) - Prometheus to Warp10 metrics forwarder (3 weeks ago)
+- [CleverCloud/beamium](https://github.com/CleverCloud/beamium) - Prometheus to Warp10 metrics forwarder (4 weeks ago)
 - [une-tasse-de-cafe/comments](https://github.com/une-tasse-de-cafe/comments) -  (2 months ago)
 - [ansible-collections/cisco.ios](https://github.com/ansible-collections/cisco.ios) - Ansible Network Collection for Cisco IOS (2 months ago)
 - [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) - Netbox agent to run on your infrastructure&#39;s servers (2 months ago)
