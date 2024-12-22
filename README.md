@@ -5,7 +5,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 #### 👷 Check out what I'm currently working on
 
 - [infra-rdc/rudder-go](https://github.com/infra-rdc/rudder-go) - Golang SDK for Rudder (rudder.io) (7 months ago)
-- [infra-rdc/nbctl](https://github.com/infra-rdc/nbctl) - Client for NetBox written in Go. (9 months ago)
+- [infra-rdc/nbctl](https://github.com/infra-rdc/nbctl) - Client for NetBox written in Go. (10 months ago)
 - [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
