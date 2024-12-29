@@ -27,11 +27,11 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [ansible-collections/cisco.iosxr](https://github.com/ansible-collections/cisco.iosxr) - Ansible Network Collection for Cisco IOSXR (today)
-- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (today)
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (today)
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres (today)
-- [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows (today)
+- [ansible-collections/cisco.iosxr](https://github.com/ansible-collections/cisco.iosxr) - Ansible Network Collection for Cisco IOSXR (1 day ago)
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 day ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 day ago)
+- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres (1 day ago)
+- [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows (1 day ago)
 - [Issif/cercat](https://github.com/Issif/cercat) - Monitor issued certificates in real-time and send alerts to Slack when a domain matches. (2 months ago)
 - [CleverCloud/beamium](https://github.com/CleverCloud/beamium) - Prometheus to Warp10 metrics forwarder (3 months ago)
 - [une-tasse-de-cafe/comments](https://github.com/une-tasse-de-cafe/comments) -  (5 months ago)
