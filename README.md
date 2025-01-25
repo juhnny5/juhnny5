@@ -27,12 +27,12 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [azrod/golink](https://github.com/azrod/golink) - Private shortlink service (today)
-- [ansible-collections/cisco.iosxr](https://github.com/ansible-collections/cisco.iosxr) - Ansible Network Collection for Cisco IOSXR (3 weeks ago)
-- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (3 weeks ago)
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (3 weeks ago)
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres (3 weeks ago)
-- [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows (3 weeks ago)
+- [azrod/golink](https://github.com/azrod/golink) - Private shortlink service (1 day ago)
+- [ansible-collections/cisco.iosxr](https://github.com/ansible-collections/cisco.iosxr) - Ansible Network Collection for Cisco IOSXR (4 weeks ago)
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (4 weeks ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (4 weeks ago)
+- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres (4 weeks ago)
+- [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows (4 weeks ago)
 - [Issif/cercat](https://github.com/Issif/cercat) - Monitor issued certificates in real-time and send alerts to Slack when a domain matches. (3 months ago)
 - [CleverCloud/beamium](https://github.com/CleverCloud/beamium) - Prometheus to Warp10 metrics forwarder (4 months ago)
 - [une-tasse-de-cafe/comments](https://github.com/une-tasse-de-cafe/comments) -  (5 months ago)
