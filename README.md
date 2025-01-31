@@ -9,7 +9,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 🔭 Latest releases I've contributed to
 
-- [infra-rdc/nbctl](https://github.com/infra-rdc/nbctl) ([v0.0.1-beta](https://github.com/infra-rdc/nbctl/releases/tag/v0.0.1-beta), 8 months ago) - Client for NetBox written in Go.
+- [infra-rdc/nbctl](https://github.com/infra-rdc/nbctl) ([v0.0.1-beta](https://github.com/infra-rdc/nbctl/releases/tag/v0.0.1-beta), 9 months ago) - Client for NetBox written in Go.
 
 #### 🔨 My recent Pull Requests
 
@@ -26,7 +26,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [azrod/golink](https://github.com/azrod/golink) - Private shortlink service (6 days ago)
+- [azrod/golink](https://github.com/azrod/golink) - Private shortlink service (1 week ago)
 - [ansible-collections/cisco.iosxr](https://github.com/ansible-collections/cisco.iosxr) - Ansible Network Collection for Cisco IOSXR (1 month ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 month ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 month ago)
