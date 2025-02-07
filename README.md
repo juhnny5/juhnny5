@@ -26,7 +26,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [azrod/golink](https://github.com/azrod/golink) - Private shortlink service (1 week ago)
+- [azrod/golink](https://github.com/azrod/golink) - Private shortlink service (2 weeks ago)
 - [ansible-collections/cisco.iosxr](https://github.com/ansible-collections/cisco.iosxr) - Ansible Network Collection for Cisco IOSXR (1 month ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 month ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 month ago)
