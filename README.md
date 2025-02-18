@@ -4,7 +4,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 👷 Check out what I'm currently working on
 
-- [infra-rdc/rudder-go](https://github.com/infra-rdc/rudder-go) - Golang SDK for Rudder (rudder.io) (8 months ago)
+- [infra-rdc/rudder-go](https://github.com/infra-rdc/rudder-go) - Golang SDK for Rudder (rudder.io) (9 months ago)
 - [infra-rdc/nbctl](https://github.com/infra-rdc/nbctl) - Client for NetBox written in Go. (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -26,7 +26,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [alexbakker/alertmanager-ntfy](https://github.com/alexbakker/alertmanager-ntfy) - Service that forwards Prometheus Alertmanager notifications to https://ntfy.sh (2 days ago)
+- [alexbakker/alertmanager-ntfy](https://github.com/alexbakker/alertmanager-ntfy) - Service that forwards Prometheus Alertmanager notifications to https://ntfy.sh (3 days ago)
 - [Furtif2005Sno/OpenCVE-To-Slack](https://github.com/Furtif2005Sno/OpenCVE-To-Slack) - A middleware that permit to get notification from OpenCVE on Slack using WebHooks (1 week ago)
 - [azrod/golink](https://github.com/azrod/golink) - Private shortlink service (3 weeks ago)
 - [ansible-collections/cisco.iosxr](https://github.com/ansible-collections/cisco.iosxr) - Ansible Network Collection for Cisco IOSXR (1 month ago)
