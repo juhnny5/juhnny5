@@ -9,7 +9,6 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 🔭 Latest releases I've contributed to
 
-- [infra-rdc/nbctl](https://github.com/infra-rdc/nbctl) ([v0.0.1-beta](https://github.com/infra-rdc/nbctl/releases/tag/v0.0.1-beta), 9 months ago) - Client for NetBox written in Go.
 
 #### 🔨 My recent Pull Requests
 
