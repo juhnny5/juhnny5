@@ -25,6 +25,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
+- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers. (today)
 - [alexbakker/alertmanager-ntfy](https://github.com/alexbakker/alertmanager-ntfy) - Service that forwards Prometheus Alertmanager notifications to https://ntfy.sh (1 week ago)
 - [Furtif2005Sno/OpenCVE-To-Slack](https://github.com/Furtif2005Sno/OpenCVE-To-Slack) - A middleware that permit to get notification from OpenCVE on Slack using WebHooks (2 weeks ago)
 - [azrod/golink](https://github.com/azrod/golink) - Private shortlink service (1 month ago)
@@ -34,4 +35,3 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres (2 months ago)
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows (2 months ago)
 - [Issif/cercat](https://github.com/Issif/cercat) - Monitor issued certificates in real-time and send alerts to Slack when a domain matches. (4 months ago)
-- [CleverCloud/beamium](https://github.com/CleverCloud/beamium) - Prometheus to Warp10 metrics forwarder (5 months ago)
