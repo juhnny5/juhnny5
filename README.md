@@ -24,7 +24,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers. (4 days ago)
+- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers. (5 days ago)
 - [alexbakker/alertmanager-ntfy](https://github.com/alexbakker/alertmanager-ntfy) - Service that forwards Prometheus Alertmanager notifications to https://ntfy.sh (2 weeks ago)
 - [Furtif2005Sno/OpenCVE-To-Slack](https://github.com/Furtif2005Sno/OpenCVE-To-Slack) - A middleware that permit to get notification from OpenCVE on Slack using WebHooks (3 weeks ago)
 - [azrod/golink](https://github.com/azrod/golink) - Private shortlink service (1 month ago)
