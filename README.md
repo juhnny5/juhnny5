@@ -24,8 +24,8 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI (today)
-- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers. (3 weeks ago)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI (1 day ago)
+- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers. (4 weeks ago)
 - [alexbakker/alertmanager-ntfy](https://github.com/alexbakker/alertmanager-ntfy) - Service that forwards Prometheus Alertmanager notifications to https://ntfy.sh (1 month ago)
 - [Furtif2005Sno/OpenCVE-To-Slack](https://github.com/Furtif2005Sno/OpenCVE-To-Slack) - A middleware that permit to get notification from OpenCVE on Slack using WebHooks (1 month ago)
 - [azrod/golink](https://github.com/azrod/golink) - Private shortlink service (2 months ago)
