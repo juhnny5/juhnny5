@@ -24,11 +24,11 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [tj/mmake](https://github.com/tj/mmake) - Modern Make  (today)
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (today)
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (today)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI (2 days ago)
-- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers. (4 weeks ago)
+- [tj/mmake](https://github.com/tj/mmake) - Modern Make  (1 day ago)
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (1 day ago)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (1 day ago)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI (3 days ago)
+- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers. (1 month ago)
 - [alexbakker/alertmanager-ntfy](https://github.com/alexbakker/alertmanager-ntfy) - Service that forwards Prometheus Alertmanager notifications to https://ntfy.sh (1 month ago)
 - [Furtif2005Sno/OpenCVE-To-Slack](https://github.com/Furtif2005Sno/OpenCVE-To-Slack) - A middleware that permit to get notification from OpenCVE on Slack using WebHooks (1 month ago)
 - [azrod/golink](https://github.com/azrod/golink) - Private shortlink service (2 months ago)
