@@ -4,7 +4,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 👷 Check out what I'm currently working on
 
-- [infra-rdc/rudder-go](https://github.com/infra-rdc/rudder-go) - Golang SDK for Rudder (rudder.io) (10 months ago)
+- [cloudducoeur/rudder-go](https://github.com/cloudducoeur/rudder-go) - Golang SDK for Rudder (rudder.io) (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
