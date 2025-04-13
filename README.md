@@ -4,6 +4,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 👷 Check out what I'm currently working on
 
+- [cloudducoeur/DevoxxFR2025](https://github.com/cloudducoeur/DevoxxFR2025) - Comment nous avons transformé les Restos du Coeur en Cloud Provider (today)
 - [cloudducoeur/rudder-go](https://github.com/cloudducoeur/rudder-go) - Golang SDK for Rudder (rudder.io) (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
