@@ -11,7 +11,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 🔨 My recent Pull Requests
 
-- [Typo correction in the go-sdk example](https://github.com/Infisical/infisical/pull/3406) on [Infisical/infisical](https://github.com/Infisical/infisical) (today)
+- [Typo correction in the go-sdk example](https://github.com/Infisical/infisical/pull/3406) on [Infisical/infisical](https://github.com/Infisical/infisical) (1 day ago)
 - [Update Ubuntu version for OpenStack templates](https://github.com/pulumi/templates/pull/730) on [pulumi/templates](https://github.com/pulumi/templates) (1 year ago)
 - [Switch to Rudder v8.0 🚀](https://github.com/Normation/rudder-ansible/pull/67) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (1 year ago)
 - [Improve node and server settings modules (Python code)](https://github.com/Normation/rudder-ansible/pull/65) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (2 years ago)
