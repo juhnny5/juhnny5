@@ -11,7 +11,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical/v0.123.2-postgres](https://github.com/Infisical/infisical/releases/tag/infisical/v0.123.2-postgres), 4 days ago) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical/v0.123.2-postgres](https://github.com/Infisical/infisical/releases/tag/infisical/v0.123.2-postgres), 5 days ago) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 
 #### 🔨 My recent Pull Requests
 
@@ -28,10 +28,10 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (3 days ago)
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader) (2 weeks ago)
-- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (2 weeks ago)
-- [canonical/maas](https://github.com/canonical/maas) - Official MAAS repository mirror (may be out of date). Development happens in Launchpad (https://git.launchpad.net/maas/). (2 weeks ago)
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (4 days ago)
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader) (3 weeks ago)
+- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (3 weeks ago)
+- [canonical/maas](https://github.com/canonical/maas) - Official MAAS repository mirror (may be out of date). Development happens in Launchpad (https://git.launchpad.net/maas/). (3 weeks ago)
 - [tj/mmake](https://github.com/tj/mmake) - Modern Make  (3 weeks ago)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (3 weeks ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (3 weeks ago)
