@@ -11,7 +11,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical/v0.125.2-postgres](https://github.com/Infisical/infisical/releases/tag/infisical/v0.125.2-postgres), 1 day ago) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical/v0.125.2-postgres](https://github.com/Infisical/infisical/releases/tag/infisical/v0.125.2-postgres), 2 days ago) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 
 #### 🔨 My recent Pull Requests
 
@@ -28,7 +28,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (1 week ago)
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (2 weeks ago)
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader) (1 month ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (1 month ago)
 - [canonical/maas](https://github.com/canonical/maas) - Official MAAS repository mirror (may be out of date). Development happens in Launchpad (https://git.launchpad.net/maas/). (1 month ago)
