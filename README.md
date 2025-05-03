@@ -5,17 +5,17 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 #### 👷 Check out what I'm currently working on
 
 - [cloudducoeur/DevoxxFR2025](https://github.com/cloudducoeur/DevoxxFR2025) - Comment nous avons transformé les Restos du Coeur en Cloud Provider (1 week ago)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access. (2 weeks ago)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access. (3 weeks ago)
 - [juhnny5/DevoxxFR2025-Infisical](https://github.com/juhnny5/DevoxxFR2025-Infisical) - Démonstration d&#39;Infisical à DevoxxFR 2025 (3 weeks ago)
 - [cloudducoeur/rudder-go](https://github.com/cloudducoeur/rudder-go) - Golang SDK for Rudder (rudder.io) (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical/v0.125.3-postgres](https://github.com/Infisical/infisical/releases/tag/infisical/v0.125.3-postgres), today) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical/v0.125.3-postgres](https://github.com/Infisical/infisical/releases/tag/infisical/v0.125.3-postgres), 1 day ago) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 
 #### 🔨 My recent Pull Requests
 
-- [Typo correction in the go-sdk example](https://github.com/Infisical/infisical/pull/3406) on [Infisical/infisical](https://github.com/Infisical/infisical) (2 weeks ago)
+- [Typo correction in the go-sdk example](https://github.com/Infisical/infisical/pull/3406) on [Infisical/infisical](https://github.com/Infisical/infisical) (3 weeks ago)
 - [Update Ubuntu version for OpenStack templates](https://github.com/pulumi/templates/pull/730) on [pulumi/templates](https://github.com/pulumi/templates) (1 year ago)
 - [Switch to Rudder v8.0 🚀](https://github.com/Normation/rudder-ansible/pull/67) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (2 years ago)
 - [Improve node and server settings modules (Python code)](https://github.com/Normation/rudder-ansible/pull/65) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (2 years ago)
