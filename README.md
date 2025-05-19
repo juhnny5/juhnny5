@@ -4,14 +4,14 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudducoeur/DevoxxFR2025](https://github.com/cloudducoeur/DevoxxFR2025) - Comment nous avons transformé les Restos du Coeur en Cloud Provider (3 weeks ago)
+- [cloudducoeur/DevoxxFR2025](https://github.com/cloudducoeur/DevoxxFR2025) - Comment nous avons transformé les Restos du Coeur en Cloud Provider (4 weeks ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access. (1 month ago)
 - [juhnny5/DevoxxFR2025-Infisical](https://github.com/juhnny5/DevoxxFR2025-Infisical) - Démonstration d&#39;Infisical à DevoxxFR 2025 (1 month ago)
-- [cloudducoeur/rudder-go](https://github.com/cloudducoeur/rudder-go) - Golang SDK for Rudder (rudder.io) (11 months ago)
+- [cloudducoeur/rudder-go](https://github.com/cloudducoeur/rudder-go) - Golang SDK for Rudder (rudder.io) (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical/v0.129.1-postgres](https://github.com/Infisical/infisical/releases/tag/infisical/v0.129.1-postgres), 2 days ago) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical/v0.129.1-postgres](https://github.com/Infisical/infisical/releases/tag/infisical/v0.129.1-postgres), 3 days ago) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 
 #### 🔨 My recent Pull Requests
 
