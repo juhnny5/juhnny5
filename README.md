@@ -11,7 +11,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.41.4](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.41.4), 3 days ago) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.41.4](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.41.4), 4 days ago) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 
 #### 🔨 My recent Pull Requests
 
@@ -28,8 +28,8 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [cloudducoeur/DevoxxFR2025](https://github.com/cloudducoeur/DevoxxFR2025) - Comment nous avons transformé les Restos du Coeur en Cloud Provider (1 day ago)
-- [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur (1 day ago)
+- [cloudducoeur/DevoxxFR2025](https://github.com/cloudducoeur/DevoxxFR2025) - Comment nous avons transformé les Restos du Coeur en Cloud Provider (2 days ago)
+- [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur (2 days ago)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (1 month ago)
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader) (1 month ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (1 month ago)
