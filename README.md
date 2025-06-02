@@ -14,6 +14,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 🔨 My recent Pull Requests
 
+- [Add: renommage persistant blog article](https://github.com/cloudducoeur/documentation/pull/1) on [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) (today)
 - [Typo correction in the go-sdk example](https://github.com/Infisical/infisical/pull/3406) on [Infisical/infisical](https://github.com/Infisical/infisical) (1 month ago)
 - [Update Ubuntu version for OpenStack templates](https://github.com/pulumi/templates/pull/730) on [pulumi/templates](https://github.com/pulumi/templates) (1 year ago)
 - [Switch to Rudder v8.0 🚀](https://github.com/Normation/rudder-ansible/pull/67) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (2 years ago)
@@ -23,7 +24,6 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 - [Improve loglevel load](https://github.com/akvorado/akvorado/pull/369) on [akvorado/akvorado](https://github.com/akvorado/akvorado) (2 years ago)
 - [Add custom zone file name support](https://github.com/octodns/octodns/pull/961) on [octodns/octodns](https://github.com/octodns/octodns) (2 years ago)
 - [Fixes #20827: Adding the doc of the inventory plugin](https://github.com/Normation/rudder-ansible/pull/55) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (3 years ago)
-- [Fixes #20826: Add documentation part in TOC (in README file)](https://github.com/Normation/rudder-ansible/pull/54) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (3 years ago)
 
 #### ⭐ Recent Stars
 
