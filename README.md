@@ -4,18 +4,18 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur (today)
+- [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur (1 day ago)
 - [cloudducoeur/DevoxxFR2025](https://github.com/cloudducoeur/DevoxxFR2025) - Comment nous avons transformé les Restos du Coeur en Cloud Provider (1 month ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (1 month ago)
 - [juhnny5/DevoxxFR2025-Infisical](https://github.com/juhnny5/DevoxxFR2025-Infisical) - Démonstration d&#39;Infisical à DevoxxFR 2025 (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical/v0.132.2-postgres](https://github.com/Infisical/infisical/releases/tag/infisical/v0.132.2-postgres), today) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical/v0.132.2-postgres](https://github.com/Infisical/infisical/releases/tag/infisical/v0.132.2-postgres), 1 day ago) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 
 #### 🔨 My recent Pull Requests
 
-- [Add: renommage persistant blog article](https://github.com/cloudducoeur/documentation/pull/1) on [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) (1 day ago)
+- [Add: renommage persistant blog article](https://github.com/cloudducoeur/documentation/pull/1) on [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) (2 days ago)
 - [Typo correction in the go-sdk example](https://github.com/Infisical/infisical/pull/3406) on [Infisical/infisical](https://github.com/Infisical/infisical) (1 month ago)
 - [Update Ubuntu version for OpenStack templates](https://github.com/pulumi/templates/pull/730) on [pulumi/templates](https://github.com/pulumi/templates) (1 year ago)
 - [Switch to Rudder v8.0 🚀](https://github.com/Normation/rudder-ansible/pull/67) on [Normation/rudder-ansible](https://github.com/Normation/rudder-ansible) (2 years ago)
