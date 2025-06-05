@@ -31,7 +31,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 - [cloudducoeur/DevoxxFR2025](https://github.com/cloudducoeur/DevoxxFR2025) - Comment nous avons transformé les Restos du Coeur en Cloud Provider (2 weeks ago)
 - [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur (2 weeks ago)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (1 month ago)
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader) (2 months ago)
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (2 months ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (2 months ago)
 - [canonical/maas](https://github.com/canonical/maas) - Official MAAS repository mirror (may be out of date). Development happens in Launchpad (https://git.launchpad.net/maas/). (2 months ago)
 - [tj/mmake](https://github.com/tj/mmake) - Modern Make  (2 months ago)
