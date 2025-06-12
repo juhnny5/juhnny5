@@ -4,14 +4,14 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur (5 days ago)
+- [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur (6 days ago)
 - [cloudducoeur/DevoxxFR2025](https://github.com/cloudducoeur/DevoxxFR2025) - Comment nous avons transformé les Restos du Coeur en Cloud Provider (1 month ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (2 months ago)
 - [juhnny5/DevoxxFR2025-Infisical](https://github.com/juhnny5/DevoxxFR2025-Infisical) - Démonstration d&#39;Infisical à DevoxxFR 2025 (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.41.85](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.41.85), today) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.41.85](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.41.85), 1 day ago) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 
 #### 🔨 My recent Pull Requests
 
@@ -28,8 +28,8 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [cloudducoeur/DevoxxFR2025](https://github.com/cloudducoeur/DevoxxFR2025) - Comment nous avons transformé les Restos du Coeur en Cloud Provider (2 weeks ago)
-- [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur (2 weeks ago)
+- [cloudducoeur/DevoxxFR2025](https://github.com/cloudducoeur/DevoxxFR2025) - Comment nous avons transformé les Restos du Coeur en Cloud Provider (3 weeks ago)
+- [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur (3 weeks ago)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (1 month ago)
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (2 months ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (2 months ago)
