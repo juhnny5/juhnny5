@@ -4,14 +4,14 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur (1 day ago)
+- [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur (2 days ago)
 - [cloudducoeur/DevoxxFR2025](https://github.com/cloudducoeur/DevoxxFR2025) - Comment nous avons transformé les Restos du Coeur en Cloud Provider (1 month ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (2 months ago)
 - [juhnny5/DevoxxFR2025-Infisical](https://github.com/juhnny5/DevoxxFR2025-Infisical) - Démonstration d&#39;Infisical à DevoxxFR 2025 (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.41.85](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.41.85), 2 days ago) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.41.85](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.41.85), 3 days ago) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 
 #### 🔨 My recent Pull Requests
 
