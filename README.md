@@ -28,9 +28,9 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (3 days ago)
-- [cloudducoeur/DevoxxFR2025](https://github.com/cloudducoeur/DevoxxFR2025) - Comment nous avons transformé les Restos du Coeur en Cloud Provider (4 weeks ago)
-- [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur (4 weeks ago)
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (4 days ago)
+- [cloudducoeur/DevoxxFR2025](https://github.com/cloudducoeur/DevoxxFR2025) - Comment nous avons transformé les Restos du Coeur en Cloud Provider (1 month ago)
+- [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur (1 month ago)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (2 months ago)
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (2 months ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (2 months ago)
