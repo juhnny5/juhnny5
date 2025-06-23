@@ -11,7 +11,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.41.85](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.41.85), 1 week ago) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical/v0.133.0-postgres](https://github.com/Infisical/infisical/releases/tag/infisical/v0.133.0-postgres), today) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 
 #### 🔨 My recent Pull Requests
 
