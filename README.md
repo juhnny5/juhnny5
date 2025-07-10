@@ -29,6 +29,7 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
+- [syepes/network_exporter](https://github.com/syepes/network_exporter) - ICMP / Ping &amp; MTR &amp; TCP Port &amp; HTTP Get - Network Prometheus exporter (today)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (3 weeks ago)
 - [cloudducoeur/DevoxxFR2025](https://github.com/cloudducoeur/DevoxxFR2025) - Comment nous avons transformé les Restos du Coeur en Cloud Provider (1 month ago)
 - [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur (1 month ago)
@@ -38,4 +39,3 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 - [canonical/maas](https://github.com/canonical/maas) - Official MAAS repository mirror (may be out of date). Development happens in Launchpad (https://git.launchpad.net/maas/). (3 months ago)
 - [tj/mmake](https://github.com/tj/mmake) - Modern Make  (3 months ago)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (3 months ago)
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (3 months ago)
