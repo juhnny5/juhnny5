@@ -4,15 +4,15 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur (5 days ago)
-- [cloudducoeur/terraform-rudder-provider](https://github.com/cloudducoeur/terraform-rudder-provider) -  (6 days ago)
+- [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur (6 days ago)
+- [cloudducoeur/terraform-rudder-provider](https://github.com/cloudducoeur/terraform-rudder-provider) -  (1 week ago)
 - [cloudducoeur/DevoxxFR2025](https://github.com/cloudducoeur/DevoxxFR2025) - Comment nous avons transformé les Restos du Coeur en Cloud Provider (2 months ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (3 months ago)
 - [juhnny5/DevoxxFR2025-Infisical](https://github.com/juhnny5/DevoxxFR2025-Infisical) - Démonstration d&#39;Infisical à DevoxxFR 2025 (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.41.90](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.41.90), today) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) ([infisical-cli/v0.41.90](https://github.com/Infisical/infisical/releases/tag/infisical-cli/v0.41.90), 1 day ago) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 
 #### 🔨 My recent Pull Requests
 
@@ -29,11 +29,11 @@ My name is Julien Briault, I'm a Network Engineer SRE at [Deezer](https://www.de
 
 #### ⭐ Recent Stars
 
-- [syepes/network_exporter](https://github.com/syepes/network_exporter) - ICMP / Ping &amp; MTR &amp; TCP Port &amp; HTTP Get - Network Prometheus exporter (5 days ago)
+- [syepes/network_exporter](https://github.com/syepes/network_exporter) - ICMP / Ping &amp; MTR &amp; TCP Port &amp; HTTP Get - Network Prometheus exporter (6 days ago)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (4 weeks ago)
 - [cloudducoeur/DevoxxFR2025](https://github.com/cloudducoeur/DevoxxFR2025) - Comment nous avons transformé les Restos du Coeur en Cloud Provider (1 month ago)
 - [cloudducoeur/documentation](https://github.com/cloudducoeur/documentation) - Documentation publique du Cloud du Coeur (1 month ago)
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (2 months ago)
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (3 months ago)
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (3 months ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (3 months ago)
 - [canonical/maas](https://github.com/canonical/maas) - Official MAAS repository mirror (may be out of date). Development happens in Launchpad (https://git.launchpad.net/maas/). (3 months ago)
